@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "951420322464",
+    "project_id": "dummy-cd4c1",
+    "storage_bucket": "dummy-cd4c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951420322464:android:452a2aa37ce01052bfffc5",
+        "android_client_info": {
+          "package_name": "com.dummy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-2LsA8M2_QHAwZFCUlISGoDSMbnqiRqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
